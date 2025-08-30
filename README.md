@@ -1,2 +1,3 @@
 # mini-projects
- [Conversor Binário](Conversor-Binário/index.html)
+ https://miguelrodrigues0806.github.io/mini-projects/
+ -Conversor Binário
